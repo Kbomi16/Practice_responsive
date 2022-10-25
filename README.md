@@ -8,3 +8,8 @@
 <img src = "https://user-images.githubusercontent.com/88658551/197707645-c453f3fb-fc58-4d9c-b7f6-71bafe095ccb.png" width="100%">
 <img src = "https://user-images.githubusercontent.com/88658551/197707767-44746afb-befe-44cc-8a12-e7f99c4f2b61.png" height="100%">
 
+### 3. 부트스트랩 연습
+
+
+
+![image](https://user-images.githubusercontent.com/88658551/197722490-0c1005df-9f28-4e82-b8d6-97fa6a689173.png)
